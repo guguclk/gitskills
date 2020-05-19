@@ -1,7 +1,7 @@
 hello
 time for svn
 auth lkk hek
-20200519 learn git, branch test
+20200519 learn git, branch TEST. fix bug101
 Creating a new branch is quick and simple.m
 Switched to a new branch dev
 Switched to a new branch dev2...
